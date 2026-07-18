@@ -37,8 +37,18 @@ Construir software de qualidade, documentar minha evolução e conquistar minha 
 
 ### MOTIX
 
-📅 Status: Em desenvolvimento
+Sistema de gerenciamento para concessionárias desenvolvido do zero.
 
-Sprint atual: Modelagem do sistema
+Status
 
-Última atualização: 16/07/2026
+🟢 Planejamento
+
+⬜ Modelagem
+
+⬜ Implementação
+
+⬜ Testes
+
+⬜ API
+
+⬜ Documentação Final
