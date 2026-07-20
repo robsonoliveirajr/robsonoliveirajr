@@ -1,12 +1,14 @@
 # Olá! 👋 Eu sou Robson de Oliveira Júnior
 
-### Desnvolvedor Backend em formação
+### Desenvolvedor Backend em formação
 
 🎓 Formando em Análise e Desenvolvimento de Sistemas.
 
 💻 Atualmente trabalho com Suporte de TI e estou em transição para a área de Desenvolvimento Backend.
 
-🚀 Atualmente desenvolvendo o **MOTIX**, um sistema para gerenciamento de concessionárias criado do zero com foco em boas práticas de Engenharia de Software.
+🚀 Atualmente desenvolvendo o **MOTIX**
+
+um sistema para gerenciamento de concessionárias criado do zero com foco em boas práticas de Engenharia de Software.
 
 ---
 
@@ -53,13 +55,11 @@ Desenvolver software de qualidade, documentar minha evolução e conquistar minh
 
 ---
 
----
-
 ## 📈 Minha jornada
 
 Estou documentando toda a evolução do MOTIX no GitHub e no LinkedIn, compartilhando decisões de arquitetura, aprendizados e desafios encontrados durante o desenvolvimento.
 
-Meu objetivo é mostrar como um software é construído do zero pela perspectiva de um desenvolvedor em formação.
+Meu objetivo é compartilhar como um software é construído do zero pela perspectiva de um desenvolvedor em formação.
 
 ---
 
@@ -84,3 +84,19 @@ Status
 ⬜ API
 
 ⬜ Documentação Final
+
+---
+
+---
+
+## 📌 Próximos passos
+
+- [x] Estrutura inicial do projeto
+- [x] Configuração do ambiente
+- [x] Organização do GitHub
+- [ ] Documento de Visão
+- [ ] Modelagem UML
+- [ ] Desenvolvimento da camada de domínio
+- [ ] Persistência em JSON
+- [ ] Testes Automatizados
+- [ ] API REST com FastAPI
