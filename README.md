@@ -1,8 +1,6 @@
 # Olá! 👋 Eu sou Robson de Oliveira Júnior
 
-### Desenvolvedor Backend em formação
-
-🎓 Formando em Análise e Desenvolvimento de Sistemas.
+### 🎓 Graduado em Análise e Desenvolvimento de Sistemas | Desenvolvedor Backend em formação.
 
 💻 Atualmente trabalho com Suporte de TI e estou em transição para a área de Desenvolvimento Backend.
 
